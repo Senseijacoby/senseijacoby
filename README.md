@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **social media site clones**
 
-- 🌱 I’m currently learning **Svelt, Angular**
+- 🌱 I’m currently learning **Svelt, Angular,Vue**
 
 - 👯 I’m looking to collaborate on **sports table tabulator**
 
